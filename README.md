@@ -1,2 +1,2 @@
 # Study
-docker and Kubernetes practice 
+Docker and Kubernetes practice 
