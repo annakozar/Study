@@ -1,2 +1,2 @@
 # Study
-Docker and Kubernetes practice 
+Docker and Kubernetes practice. Jenkins too.
