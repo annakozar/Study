@@ -1,2 +1,2 @@
-# Study
-Docker and Kubernetes practice. Jenkins too.
+# SKE
+And other answers for strange questions from the Internet.
